@@ -11,4 +11,4 @@ Road
 
 
 We think to finish it in a week :clock9:!
-Game ideas are accepted!! [Discord link](https:discord.com)
+Game ideas are accepted!! [Discord link](https://discord.com)
