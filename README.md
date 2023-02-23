@@ -1,5 +1,5 @@
 # Clan Wars
-Game made by [Legend Games](youtube.com):copyright:
+Game made by [Legend Games](https://youtube.com):copyright:
 
 We hope to finish soon! :grin:
 
@@ -11,4 +11,4 @@ Road
 
 
 We think to finish it in a week :clock9:!
-Game ideas are accepted!! [Discord link](discord.com)
+Game ideas are accepted!! [Discord link](https:discord.com)
